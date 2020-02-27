@@ -1,0 +1,23 @@
+{
+  "name": "@baburikon/algorithms",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "baburikon",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-syntax-import-meta": "^7.8.3",
+    "@babel/preset-env": "^7.8.4",
+    "@types/jest": "^25.1.1",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0",
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
